@@ -1,0 +1,40 @@
+main {
+  font-size: 0;
+}
+.centered {
+  text-align: center;
+}
+.container-outer {
+ width: 800px;
+ border: 1px black solid;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 50px;
+}
+.inner1 {
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  border: 1px solid black;
+}
+.inner1-one {
+   background-color: green;
+}
+.inner1-two {
+  background-color: blue;
+}
+.inner2 {
+  height: 300px;
+  width: 33.3333%;
+  display: inline-block;
+  border: 1px solid black;
+}
+.inner2-one {
+   background-color: grey;
+}
+.inner2-two {
+  background-color: black;
+}
+.inner2-three {
+  background-color: yellow;
+}
